@@ -1,0 +1,36 @@
+Assign-4
+
+VMDK link-
+https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt
+
+VM1-
+ifconfig
+ls
+touch file_name
+ls
+nano file_name
+cat file_name
+scp file_name vagrant@10.0.2.5:/home/vagrant
+
+VM2-
+ls
+cat file_name
+
+Assign-9
+
+sudo apt update
+sudo apt install build-essential
+sudo apt-get install manpages-dev
+gcc --version
+
+touch hello.c
+nano hello.c
+
+run
+gcc hello.c -o hello
+./hello
+
+
+
+
+
